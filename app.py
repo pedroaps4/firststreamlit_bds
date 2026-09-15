@@ -20,5 +20,5 @@ def load_data():
 
 
 df = load_data()
-st.dataframe(df.head(1))
+st.dataframe(df.head(12))
 
